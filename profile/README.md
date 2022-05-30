@@ -6,7 +6,8 @@
 | ------- | ------- | ---- | ----------- |
 | Proza | prof. Alessandro | - | <a href="https://github.com/PI-InfoWeb-CNAT/proza">PI-InfoWeb-CNAT/proza</a> |
 | Sapien | prof. Alessandro | - | <a href="https://github.com/PI-InfoWeb-CNAT/sapien">PI-InfoWeb-CNAT/sapien</a> |
-| -  | prof. Gilbert | - | - |
+| Barbearia do Matheus | prof. Gilbert | - | <a href="https://github.com/PI-InfoWeb-CNAT/agendamento_barbearia">PI-InfoWeb-CNAT/Barbearia do Matheus</a> |
+| AgendEsportes | prof. Gilbert | - | <a href="https://github.com/PI-InfoWeb-CNAT/agendamento_codesp">PI-InfoWeb-CNAT/AgendEsportes</a> |
 | - | prof. George | - | - |
 | - - | prof. Minora | - | -|
 
