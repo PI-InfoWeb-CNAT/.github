@@ -1,4 +1,6 @@
-# # 2022.1 - PI InfoWeb
+# Projetos Integradores do 3o ano de Infoweb
+
+# # 2022 - PI InfoWeb
 
 
 
@@ -8,11 +10,14 @@
 | Sapien | prof. Alessandro | - | <a href="https://github.com/PI-InfoWeb-CNAT/sapien">PI-InfoWeb-CNAT/sapien</a> |
 | Barbearia do Matheus | prof. Gilbert | - | <a href="https://github.com/PI-InfoWeb-CNAT/agendamento_barbearia">PI-InfoWeb-CNAT/Barbearia do Matheus</a> |
 | AgendEsportes | prof. Gilbert | - | <a href="https://github.com/PI-InfoWeb-CNAT/agendamento_codesp">PI-InfoWeb-CNAT/AgendEsportes</a> |
+| - | prof. Sales | - | - |
+| - | prof. George | - | [Stack-Learn](https://github.com/PI-InfoWeb-CNAT/Stack-Learn) |
+| - | prof. George | - | [GordonStore](https://github.com/PI-InfoWeb-CNAT/GordonStore) |
 | - | prof. George | - | - |
-| - - | prof. Minora | - | -|
+| - | prof. Minora | - | - |
 
 
-# # 2021.1 - PI InfoWeb
+# # 2021 - PI InfoWeb
 
 
 
