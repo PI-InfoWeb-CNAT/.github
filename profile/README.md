@@ -6,15 +6,13 @@
 
 | Projeto | Gerente | Site | Repositório |
 | ------- | ------- | ---- | ----------- |
-| Proza | prof. Alessandro | - | <a href="https://github.com/PI-InfoWeb-CNAT/proza">PI-InfoWeb-CNAT/proza</a> |
-| Sapien | prof. Alessandro | - | <a href="https://github.com/PI-InfoWeb-CNAT/sapien">PI-InfoWeb-CNAT/sapien</a> |
-| Barbearia do Matheus | prof. Gilbert | - | <a href="https://github.com/PI-InfoWeb-CNAT/agendamento_barbearia">PI-InfoWeb-CNAT/Barbearia do Matheus</a> |
-| AgendEsportes | prof. Gilbert | - | <a href="https://github.com/PI-InfoWeb-CNAT/agendamento_codesp">PI-InfoWeb-CNAT/AgendEsportes</a> |
-| - | prof. Sales | - | - |
-| - | prof. George | - | [Stack-Learn](https://github.com/PI-InfoWeb-CNAT/Stack-Learn) |
-| - | prof. George | - | [GordonStore](https://github.com/PI-InfoWeb-CNAT/GordonStore) |
-| - | prof. George | - | - |
-| - | prof. Minora | - | - |
+| Proza                | prof. Alessandro | - | [PI-InfoWeb-CNAT/proza](https://github.com/PI-InfoWeb-CNAT/proza) |
+| Sapien               | prof. Alessandro | - | [PI-InfoWeb-CNAT/sapien](https://github.com/PI-InfoWeb-CNAT/sapien) |
+| Barbearia do Matheus | prof. Gilbert    | - | [PI-InfoWeb-CNAT/Barbearia do Matheus](https://github.com/PI-InfoWeb-CNAT/agendamento_barbearia) |
+| AgendEsportes        | prof. Sales      | - | [PI-InfoWeb-CNAT/AgendEsportes](https://github.com/PI-InfoWeb-CNAT/agendamento_codesp) |
+| Stack-Learn          | prof. George     | - | [PI-InfoWeb-CNAT/Stack-Learn](https://github.com/PI-InfoWeb-CNAT/Stack-Learn) |
+| GordonStore          | prof. George     | - | [PI-InfoWeb-CNAT/GordonStore](https://github.com/PI-InfoWeb-CNAT/GordonStore) |
+| Malfatti             | prof. Minora     | - | [PI-InfoWeb-CNAT/Malfatti](https://github.com/PI-InfoWeb-CNAT/Malfatti) |
 
 
 # # 2021 - PI InfoWeb
