@@ -4,7 +4,8 @@
 | Projeto       | Gerente                                             | Site | Repositório |
 | ------------- | --------------------------------------------------- | ---- | ----------- |
 | Rede social A | prof. Alessandro                                    | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-A) |
-| Rede social B | prof. Alessandro                                    | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-stargio
+| Stargio
+ | prof. Alessandro                                    | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-stargio
 ) |
 | Rede social G | prof. Sales                                         | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-G) |
 | Serviços E    | prof. Gilbert                                       | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-E)    |
