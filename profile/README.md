@@ -3,7 +3,7 @@
 ## 2023 - PI InfoWeb
 | Projeto       | Gerente                                             | Site | Repositório |
 | ------------- | --------------------------------------------------- | ---- | ----------- |
-| Rede social A | prof. Alessandro                                    | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-A.git) |
+| Rede social A | prof. Alessandro                                    | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-A) |
 | Rede social B | prof. Alessandro                                    | -    | -           |
 | Rede social G | prof. Sales                                         | -    | -           |
 | Serviços E    | prof. Gilbert                                       | -    | -           |
