@@ -4,13 +4,13 @@
 | Projeto       | Gerente                                             | Site | Repositório |
 | ------------- | --------------------------------------------------- | ---- | ----------- |
 | Rede social A | prof. Alessandro                                    | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-A) |
-| Rede social B | prof. Alessandro                                    | -    | -           |
-| Rede social G | prof. Sales                                         | -    | -           |
-| Serviços E    | prof. Gilbert                                       | -    | -           |
-| Serviços F    | prof. Gilbert                                       | -    | -           |
-| e-commerce C  | prof. George                                        | -    | -           |
-| e-commerce D  | prof. George                                        | -    | -           |
-| e-commerce H  | [prof. Minora](https://github.com/leonardo-minora/) | -    | -           |
+| Rede social B | prof. Alessandro                                    | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-B) |
+| Rede social G | prof. Sales                                         | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-G) |
+| Serviços E    | prof. Gilbert                                       | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-E)    |
+| Serviços F    | prof. Gilbert                                       | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-F)    |
+| e-commerce C  | prof. George                                        | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-ECommerce-C)   |
+| e-commerce D  | prof. George                                        | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-ECommerce-D)   |
+| e-commerce H  | [prof. Minora](https://github.com/leonardo-minora/) | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-ECommerce-H)   |
 
 
 ## 2022 - PI InfoWeb
