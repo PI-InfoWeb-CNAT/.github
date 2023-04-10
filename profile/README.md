@@ -3,14 +3,14 @@
 ## 2023 - PI InfoWeb
 | Projeto       | Gerente                                             | Site | Repositório |
 | ------------- | --------------------------------------------------- | ---- | ----------- |
-| Rede social 1 | prof. Alessandro                                    | -    | -           |
-| Rede social 2 | prof. Alessandro                                    | -    | -           |
-| Rede social 3 | prof. Sales                                         | -    | -           |
-| Serviços 1    | prof. Gilbert                                       | -    | -           |
-| Serviços 2    | prof. Gilbert                                       | -    | -           |
-| e-comerce 1   | prof. George                                        | -    | -           |
-| e-commerce 2  | prof. George                                        | -    | -           |
-| e-commerce 3  | [prof. Minora](https://github.com/leonardo-minora/) | -    | -           |
+| Rede social A | prof. Alessandro                                    | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-A.git) |
+| Rede social B | prof. Alessandro                                    | -    | -           |
+| Rede social G | prof. Sales                                         | -    | -           |
+| Serviços E    | prof. Gilbert                                       | -    | -           |
+| Serviços F    | prof. Gilbert                                       | -    | -           |
+| e-commerce C  | prof. George                                        | -    | -           |
+| e-commerce D  | prof. George                                        | -    | -           |
+| e-commerce H  | [prof. Minora](https://github.com/leonardo-minora/) | -    | -           |
 
 
 ## 2022 - PI InfoWeb
