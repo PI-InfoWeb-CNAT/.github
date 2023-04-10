@@ -3,9 +3,9 @@
 ## 2023 - PI InfoWeb
 | Projeto       | Gerente                                             | Site | Repositório |
 | ------------- | --------------------------------------------------- | ---- | ----------- |
-| Rede social A | prof. Alessandro                                    | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-A) |
-| Stargio       | prof. Alessandro                                    | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-stargio) |
-| Rede social G | prof. Sales                                         | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-G) |
+| Rede social A | prof. Alessandro / prof. Sale                       | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-A) |
+| Stargio       | prof. Alessandro / prof. Sales                      | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-stargio) |
+| Rede social C | prof. Alessandro / prof. Sales                      | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-G) |
 | Serviços E    | prof. Gilbert                                       | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-E)    |
 | Serviços F    | prof. Gilbert                                       | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-F)    |
 | e-commerce C  | prof. George                                        | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-ECommerce-C)   |
