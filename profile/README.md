@@ -3,8 +3,8 @@
 ## 2023 - PI InfoWeb
 | Projeto       | Gerente                                             | Site | Repositório |
 | ------------- | --------------------------------------------------- | ---- | ----------- |
-| Repew         | prof. Alessandro / prof. Sales                      | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-Repew) |
-| Stargio       | prof. Alessandro / prof. Sales                      | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-stargio) |
+| Repew         | prof. Alessandro / prof. Sales                      | -    | [PI-InfoWeb-CNAT/2023-Rede-Social-Repew](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-Repew) |
+| Stargio       | prof. Alessandro / prof. Sales                      | -    | [PI-InfoWeb-CNAT/2023-Rede-Social-stargio](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-stargio) |
 | Rede social C | prof. Alessandro / prof. Sales                      | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-G) |
 | Serviços E    | prof. Gilbert                                       | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-E)    |
 | Serviços F    | prof. Gilbert                                       | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-F)    |
