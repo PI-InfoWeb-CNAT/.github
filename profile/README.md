@@ -1,16 +1,16 @@
 # Projetos Integradores do 3o ano de Infoweb
 
 ## 2023 - PI InfoWeb
-| Projeto       | Gerente                                             | Site | Repositório |
-| ------------- | --------------------------------------------------- | ---- | ----------- |
-| Repew         | prof. Alessandro / prof. Sales                      | -    | [PI-InfoWeb-CNAT/2023-Rede-Social-Repew](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-Repew) |
-| Stargio       | prof. Alessandro / prof. Sales                      | -    | [PI-InfoWeb-CNAT/2023-Rede-Social-stargio](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-stargio) |
+| Projeto       | Gerente                                             | Site | Repositório                                                                                                 |
+| ------------- | --------------------------------------------------- | ---- | ----------------------------------------------------------------------------------------------------------- |
+| Repew         | prof. Alessandro / prof. Sales                      | -    | [PI-InfoWeb-CNAT/2023-Rede-Social-Repew](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-Repew)         |
+| Stargio       | prof. Alessandro / prof. Sales                      | -    | [PI-InfoWeb-CNAT/2023-Rede-Social-stargio](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-stargio)     |
 | Rede social C | prof. Alessandro / prof. Sales                      | -    | [PI-InfoWeb-CNAT/2023-Rede-Social-Whisperif](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-Whisperif) |
-| PetLife    | prof. Gilbert                                       | -    | [PI-InfoWeb-CNAT/2023-Serviços-PetLife](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-PetLife)    |
-| AgendMovies    | prof. Gilbert                                       | -    | [PI-InfoWeb-CNAT/2023-Serviços-AgendMovies](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-AgendMovies)    |
-| e-commerce C  | prof. George                                        | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-ECommerce-C)   |
-| e-commerce D  | prof. George                                        | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-ECommerce-D)   |
-| e-commerce H  | [prof. Minora](https://github.com/leonardo-minora/) | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-ECommerce-H)   |
+| PetLife       | prof. Gilbert                                       | -    | [PI-InfoWeb-CNAT/2023-Serviços-PetLife](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-PetLife)           |
+| AgendMovies   | prof. Gilbert                                       | -    | [PI-InfoWeb-CNAT/2023-Serviços-AgendMovies](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-AgendMovies)   |
+| Soul Arte     | prof. George                                        | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Soul_Arte)                                                 |
+| e-commerce D  | prof. George                                        | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-ECommerce-D)                                               |
+| Manga Shop    | [prof. Minora](https://github.com/leonardo-minora/) | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Manga-Shop)                                                |
 
 
 ## 2022 - PI InfoWeb
