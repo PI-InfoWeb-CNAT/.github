@@ -5,7 +5,7 @@
 | ------------- | --------------------------------------------------- | ---- | ----------- |
 | Repew         | prof. Alessandro / prof. Sales                      | -    | [PI-InfoWeb-CNAT/2023-Rede-Social-Repew](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-Repew) |
 | Stargio       | prof. Alessandro / prof. Sales                      | -    | [PI-InfoWeb-CNAT/2023-Rede-Social-stargio](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-stargio) |
-| Rede social C | prof. Alessandro / prof. Sales                      | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-G) |
+| Rede social C | prof. Alessandro / prof. Sales                      | -    | [PI-InfoWeb-CNAT/2023-Rede-Social-Whisperif](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-Whisperif) |
 | PetLife    | prof. Gilbert                                       | -    | [PI-InfoWeb-CNAT/2023-Serviços-PetLife](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-PetLife)    |
 | AgendMovies    | prof. Gilbert                                       | -    | [PI-InfoWeb-CNAT/2023-Serviços-AgendMovies](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-AgendMovies)    |
 | e-commerce C  | prof. George                                        | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-ECommerce-C)   |
