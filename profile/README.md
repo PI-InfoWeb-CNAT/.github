@@ -8,9 +8,10 @@
 | Rede social C | prof. Alessandro / prof. Sales                      | -    | [PI-InfoWeb-CNAT/2023-Rede-Social-Whisperif](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-Whisperif) |
 | PetLife       | prof. Gilbert                                       | -    | [PI-InfoWeb-CNAT/2023-Serviços-PetLife](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-PetLife)           |
 | AgendMovies   | prof. Gilbert                                       | -    | [PI-InfoWeb-CNAT/2023-Serviços-AgendMovies](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-AgendMovies)   |
-| Soul Arte     | prof. George                                        | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Soul_Arte)                                                 |
+| Soul Arte     | prof. George                                        | -    | [PI-InfoWeb-CNAT/2023-Soul_Arte](https://github.com/PI-InfoWeb-CNAT/2023-Soul_Arte)                         |
 | e-commerce D  | prof. George                                        | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-ECommerce-D)                                               |
-| Manga Shop    | [prof. Minora](https://github.com/leonardo-minora/) | -    | [Github](https://github.com/PI-InfoWeb-CNAT/2023-Manga-Shop)                                                |
+| Manga Shop    | [prof. Minora](https://github.com/leonardo-minora/) | -    | [PI-InfoWeb-CNAT/2023-Manga-Shop](https://github.com/PI-InfoWeb-CNAT/2023-Manga-Shop)                       |
+|               |                                                     |      |                                                                                                             |
 
 
 ## 2022 - PI InfoWeb
