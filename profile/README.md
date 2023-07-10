@@ -9,7 +9,7 @@
 | PetLife       | prof. Gilbert                                       | -    | [PI-InfoWeb-CNAT/2023-Serviços-PetLife](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-PetLife)           |
 | AgendMovies   | prof. Gilbert                                       | -    | [PI-InfoWeb-CNAT/2023-Serviços-AgendMovies](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-AgendMovies)   |
 | Soul Arte     | prof. George                                        | -    | [PI-InfoWeb-CNAT/2023-Soul_Arte](https://github.com/PI-InfoWeb-CNAT/2023-Soul_Arte)                         |
-| e-commerce D  | prof. George                                        | -    | [PI-InfoWeb-CNAT/2023-pratelivros](https://github.com/PI-InfoWeb-CNAT/2023-pratelivros)                                               |
+| pratelivros   | prof. George                                        | -    | [PI-InfoWeb-CNAT/2023-pratelivros](https://github.com/PI-InfoWeb-CNAT/2023-pratelivros)                                               |
 | Manga Shop    | [prof. Minora](https://github.com/leonardo-minora/) | -    | [PI-InfoWeb-CNAT/2023-Manga-Shop](https://github.com/PI-InfoWeb-CNAT/2023-Manga-Shop)                       |
 |               |                                                     |      |                                                                                                             |
 
