@@ -5,13 +5,12 @@
 | ------------- | --------------------------------------------------- | ---- | ----------------------------------------------------------------------------------------------------------- |
 | Repew         | prof. Alessandro / prof. Sales                      | -    | [PI-InfoWeb-CNAT/2023-Rede-Social-Repew](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-Repew)         |
 | Stargio       | prof. Alessandro / prof. Sales                      | -    | [PI-InfoWeb-CNAT/2023-Rede-Social-stargio](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-stargio)     |
-| Whisperif | prof. Alessandro / prof. Sales                      | -    | [PI-InfoWeb-CNAT/2023-Rede-Social-Whisperif](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-Whisperif) |
+| Whisperif | prof. Alessandro / prof. Sales                      | -    | [PI-InfoWeb-CNAT/2023-Rede-Social-Whisperif](https://github.com/PI-InfoWeb-CNAT/2023-Rede-Social-Whisperif)     |
 | PetLife       | prof. Gilbert                                       | -    | [PI-InfoWeb-CNAT/2023-Serviços-PetLife](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-PetLife)           |
 | AgendMovies   | prof. Gilbert                                       | -    | [PI-InfoWeb-CNAT/2023-Serviços-AgendMovies](https://github.com/PI-InfoWeb-CNAT/2023-Servicos-AgendMovies)   |
 | Soul Arte     | prof. George                                        | -    | [PI-InfoWeb-CNAT/2023-Soul_Arte](https://github.com/PI-InfoWeb-CNAT/2023-Soul_Arte)                         |
-| pratelivros   | prof. George                                        | -    | [PI-InfoWeb-CNAT/2023-pratelivros](https://github.com/PI-InfoWeb-CNAT/2023-pratelivros)                                               |
+| pratelivros   | prof. George                                        | -    | [PI-InfoWeb-CNAT/2023-pratelivros](https://github.com/PI-InfoWeb-CNAT/2023-pratelivros)                     |
 | Manga Shop    | [prof. Minora](https://github.com/leonardo-minora/) | -    | [PI-InfoWeb-CNAT/2023-Manga-Shop](https://github.com/PI-InfoWeb-CNAT/2023-Manga-Shop)                       |
-|               |                                                     |      |                                                                                                             |
 
 
 ## 2022 - PI InfoWeb
