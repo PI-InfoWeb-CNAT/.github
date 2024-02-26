@@ -1,5 +1,16 @@
 # Projetos Integradores do 3o ano de Infoweb
 
+## 2024 - PI InfoWeb
+| Projeto              | Gerente          | Site | Repositório                                                                                      |
+| -------------------- | ---------------- | ---- | ------------------------------------------------------------------------------------------------ |
+| Rede Social -SPFV    | prof. Alessandro | -    | [PI-InfoWeb-CNAT/2024-rede-social-spfv](https://github.com/PI-InfoWeb-CNAT/2024-rede-social-spfv)                |
+| Serviços - G1        | prof. Gilbert    | -    | - |
+| Serviços - G1        | prof. Gilbert    | -    | -           |
+| E-Commerce - G1      | prof. George     | -    | -                    |
+| E-Commerce - G1      | prof. George     | -    | -                    |
+| Gestão - G1          | prof. Sales      | -    | -                          |
+
+
 ## 2023 - PI InfoWeb
 | Projeto       | Gerente                                             | Site | Repositório                                                                                                 |
 | ------------- | --------------------------------------------------- | ---- | ----------------------------------------------------------------------------------------------------------- |
