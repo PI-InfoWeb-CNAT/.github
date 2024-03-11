@@ -1,14 +1,14 @@
 # Projetos Integradores do 3o ano de Infoweb
 
 ## 2024 - PI InfoWeb
-| Projeto                | Gerente          | Site | Repositório                                                                                       |
-| --------------------   | ---------------- | ---- | ------------------------------------------------------------------------------------------------  |
-| Rede Social -SPFV      | prof. Alessandro | -    | [PI-InfoWeb-CNAT/2024-rede-social-spfv](https://github.com/PI-InfoWeb-CNAT/2024-rede-social-spfv) |
-| Serviços - MenteEmFoco | prof. Gilbert    | -    | [PI-InfoWeb-CNAT/2024-Serviços-Clínica](https://github.com/PI-InfoWeb-CNAT/2024-Servicos-clinica) |
-| Serviços - Caramelo    | prof. Gilbert    | -    | [PI-InfoWeb-CNAT/2024-Serviços-Petshop](https://github.com/PI-InfoWeb-CNAT/2024-Servicos-petshop) |
-| E-Commerce - yLibros   | prof. Minora     | -    | [PI-InfoWeb-CNAT/2024-ecommerce-ylibros](https://github.com/PI-InfoWeb-CNAT/2024-yLibros)         |
-| E-Commerce - G1        | prof. George     | -    | -                    |
-| Works                  | prof. Sales      | -    | [PI-InfoWeb-CNAT/2024-2024-gestao-servicos-works](https://github.com/PI-InfoWeb-CNAT/2024-gestao-servicos-works)                          |
+| Projeto                  | Gerente          | Site | Repositório                                                                                       |
+| --------------------     | ---------------- | ---- | ------------------------------------------------------------------------------------------------  |
+| Rede Social -SPFV        | prof. Alessandro | -    | [PI-InfoWeb-CNAT/2024-rede-social-spfv](https://github.com/PI-InfoWeb-CNAT/2024-rede-social-spfv) |
+| Serviços - MenteEmFoco   | prof. Gilbert    | -    | [PI-InfoWeb-CNAT/2024-Serviços-Clínica](https://github.com/PI-InfoWeb-CNAT/2024-Servicos-clinica) |
+| Serviços - Caramelo      | prof. Gilbert    | -    | [PI-InfoWeb-CNAT/2024-Serviços-Petshop](https://github.com/PI-InfoWeb-CNAT/2024-Servicos-petshop) |
+| E-Commerce - yLibros     | prof. Minora     | -    | [PI-InfoWeb-CNAT/2024-ecommerce-ylibros](https://github.com/PI-InfoWeb-CNAT/2024-yLibros)         |
+| E-Commerce - Suplementos | prof. George     | -    | [PI-InfoWeb-CNAT/2024-ecommerce-suplementos](https://github.com/PI-InfoWeb-CNAT/2024-suplementos) |
+| Works                    | prof. Sales      | -    | [PI-InfoWeb-CNAT/2024-2024-gestao-servicos-works](https://github.com/PI-InfoWeb-CNAT/2024-gestao-servicos-works)                          |
 
 
 ## 2023 - PI InfoWeb
