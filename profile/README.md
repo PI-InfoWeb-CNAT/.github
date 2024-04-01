@@ -6,7 +6,7 @@
 | Rede Social -SPFV        | prof. Alessandro | -    | [PI-InfoWeb-CNAT/2024-rede-social-spfv](https://github.com/PI-InfoWeb-CNAT/2024-rede-social-spfv) |
 | Serviços - MenteEmFoco   | prof. Gilbert    | -    | [PI-InfoWeb-CNAT/2024-Serviços-Clínica](https://github.com/PI-InfoWeb-CNAT/2024-Servicos-clinica) |
 | Serviços - Caramelo      | prof. Gilbert    | -    | [PI-InfoWeb-CNAT/2024-Serviços-Petshop](https://github.com/PI-InfoWeb-CNAT/2024-Servicos-petshop) |
-| E-Commerce - yLibros     | prof. Minora     | -    | [PI-InfoWeb-CNAT/2024-ecommerce-ylibros](https://github.com/PI-InfoWeb-CNAT/2024-yLibros)         |
+| E-Commerce - eLibros     | prof. Minora     | -    | [PI-InfoWeb-CNAT/2024-ecommerce-ylibros](https://github.com/PI-InfoWeb-CNAT/2024-eLibros)         |
 | E-Commerce - Suplementos | prof. George     | -    | [PI-InfoWeb-CNAT/2024-ecommerce-suplementos](https://github.com/PI-InfoWeb-CNAT/2024-suplementos) |
 | Works                    | prof. Sales      | -    | [PI-InfoWeb-CNAT/2024-2024-gestao-servicos-works](https://github.com/PI-InfoWeb-CNAT/2024-gestao-servicos-works)                          |
 
