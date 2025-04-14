@@ -1,6 +1,6 @@
 # Projetos Integradores do 3o ano de Infoweb
 
-## 2024 - PI InfoWeb
+## 2025 - PI InfoWeb
 | Projeto                  | Gerente          | Site | Repositório                                                                                       |
 | --------------------     | ---------------- | ---- | ------------------------------------------------------------------------------------------------  |
 | Reserva Sala (Agendamento)        | prof. Sales Filho | -    | [PI-InfoWeb-CNAT/2024-rede-social-spfv](https://github.com/PI-InfoWeb-CNAT/2024-rede-social-spfv) |
