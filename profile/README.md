@@ -6,7 +6,7 @@
 | Reserva Sala (Agendamento) | Prof. Sales Filho    | -    | [PI-InfoWeb-CNAT/2024-rede-social-spfv](https://github.com/PI-InfoWeb-CNAT/2024-rede-social-spfv) |
 | Rex Tech (E-comerce)       | Prof. Sales Filho    | -    | [PI-InfoWeb-CNAT/2024-ecommerce-ylibros](https://github.com/PI-InfoWeb-CNAT/2024-eLibros)         |
 | Restaurante (E-comerce)    | Prof. George Azevedo | -    | [PI-InfoWeb-CNAT/2024-Serviços-Clínica](https://github.com/PI-InfoWeb-CNAT/2024-Servicos-clinica) |
-| Offclub (E-comerce)        | Prof. Fellipe Aleixo | -    | [PI-InfoWeb-CNAT/2024-Serviços-Petshop](https://github.com/PI-InfoWeb-CNAT/2024-Servicos-petshop) |
+| Offclub (E-comerce)        | Prof. Fellipe Aleixo | -    | https://github.com/PI-InfoWeb-CNAT/OffClub |
 | PetShop (E-comerce)        | Prof. Fellipe Aleixo | -    | [PI-InfoWeb-CNAT/2024-ecommerce-suplementos](https://github.com/PI-InfoWeb-CNAT/2024-suplementos) |
 | Gelato (E-comerce)         | Prof. Fabiano Papaiz | -    | [PI-InfoWeb-CNAT/2024-2024-gestao-servicos-works](https://github.com/PI-InfoWeb-CNAT/2024-gestao-servicos-works) |
 
