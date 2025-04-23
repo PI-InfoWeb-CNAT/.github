@@ -7,7 +7,7 @@
 | Rex Tech (E-comerce)       | Prof. Sales Filho    | -    | :warning:Ajustar:warning: [PI-InfoWeb-CNAT/2024-ecommerce-ylibros](https://github.com/PI-InfoWeb-CNAT/2024-eLibros)         |
 | Restaurante (E-comerce)    | Prof. George Azevedo | -    | :warning:Ajustar:warning: [PI-InfoWeb-CNAT/2024-Serviços-Clínica](https://github.com/PI-InfoWeb-CNAT/2024-Servicos-clinica) |
 | Offclub (E-comerce)        | Prof. Fellipe Aleixo | -    | https://github.com/PI-InfoWeb-CNAT/OffClub |
-| PetShop (E-comerce)        | Prof. Fellipe Aleixo | -    | :warning:Ajustar:warning: [PI-InfoWeb-CNAT/2024-ecommerce-suplementos](https://github.com/PI-InfoWeb-CNAT/2024-suplementos) |
+| PetShop (E-comerce)        | Prof. Fellipe Aleixo | -    | https://github.com/PI-InfoWeb-CNAT/PetShop |
 | Gelato (E-comerce)         | Prof. Fabiano Papaiz | -    | :warning:Ajustar:warning: [PI-InfoWeb-CNAT/2024-2024-gestao-servicos-works](https://github.com/PI-InfoWeb-CNAT/2024-gestao-servicos-works) |
 
 
