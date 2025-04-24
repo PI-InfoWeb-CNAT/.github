@@ -8,7 +8,7 @@
 | Restaurante (E-comerce)    | Prof. George Azevedo | -    | :warning:Ajustar:warning: [PI-InfoWeb-CNAT/2024-Serviços-Clínica](https://github.com/PI-InfoWeb-CNAT/2024-Servicos-clinica) |
 | Offclub (E-comerce)        | Prof. Fellipe Aleixo | -    | https://github.com/PI-InfoWeb-CNAT/2025-OffClub |
 | PetShop (E-comerce)        | Prof. Fellipe Aleixo | -    | https://github.com/PI-InfoWeb-CNAT/2025-PetShop |
-| Gelato (E-comerce)         | Prof. Fabiano Papaiz | -    | :warning:Ajustar:warning: [PI-InfoWeb-CNAT/2024-2024-gestao-servicos-works](https://github.com/PI-InfoWeb-CNAT/2024-gestao-servicos-works) |
+| Gelato (E-comerce)         | Prof. Fabiano Papaiz | -    | https://github.com/PI-InfoWeb-CNAT/gelato |
 
 
 
