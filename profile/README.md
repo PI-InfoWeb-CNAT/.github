@@ -3,9 +3,9 @@
 ## 2025 - PI InfoWeb
 | Projeto                    | Gerente              | Site | Repositório                                                                                       |
 | -------------------------- | -------------------- | ---- | ------------------------------------------------------------------------------------------------  |
-| Reserva Sala (Agendamento) | Prof. Sales Filho    | -    | [PI-InfoWeb-CNAT/2024-Sallas-BibliotecaCNAT](https://github.com/PI-InfoWeb-CNAT/bib-reserva) |
+| Reserva Sala (Agendamento) | Prof. Sales Filho    | -    | [https://github.com/PI-InfoWeb-CNAT/bib-reserva](https://github.com/PI-InfoWeb-CNAT/bib-reserva) |
 | Rex Tech (E-comerce)       | Prof. Fabiano Papaiz | -    | [https://github.com/PI-InfoWeb-CNAT/PI-RexTech](https://github.com/PI-InfoWeb-CNAT/PI-RexTech)         |
-| Restaurante (E-comerce)    | Prof. George Azevedo | -    | :warning:Ajustar:warning: [PI-InfoWeb-CNAT/2024-Serviços-Clínica](https://github.com/PI-InfoWeb-CNAT/2024-Servicos-clinica) |
+| Restaurante (E-comerce)    | Prof. George Azevedo | -    | [https://github.com/PI-InfoWeb-CNAT/Restaurante](https://github.com/PI-InfoWeb-CNAT/Restaurante) |
 | Offclub (E-comerce)        | Prof. Fellipe Aleixo | -    | https://github.com/PI-InfoWeb-CNAT/2025-OffClub |
 | PetShop (E-comerce)        | Prof. Fellipe Aleixo | -    | https://github.com/PI-InfoWeb-CNAT/2025-PetShop |
 | Gelato (E-comerce)         | Prof. Fabiano Papaiz | -    | https://github.com/PI-InfoWeb-CNAT/gelato |
