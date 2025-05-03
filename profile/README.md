@@ -3,7 +3,7 @@
 ## 2025 - PI InfoWeb
 | Projeto                    | Gerente              | Site | Repositório                                                                                       |
 | -------------------------- | -------------------- | ---- | ------------------------------------------------------------------------------------------------  |
-| Sallas CNAT (Agendamento) | Prof. Sales Filho    | -    | [https://github.com/PI-InfoWeb-CNAT/bib-reserva](https://github.com/PI-InfoWeb-CNAT/bib-reserva) |
+| Sallas CNAT (Agendamento) | Prof. Sales Filho    | -    | [https://github.com/PI-InfoWeb-CNAT/bib-reserva](https://github.com/PI-InfoWeb-CNAT/Sallas-Biblioteca-CNAT) |
 | Rex Tech (E-comerce)       | Prof. Fabiano Papaiz | -    | [https://github.com/PI-InfoWeb-CNAT/PI-RexTech](https://github.com/PI-InfoWeb-CNAT/PI-RexTech)         |
 | Restaurante (E-comerce)    | Prof. George Azevedo | -    | [https://github.com/PI-InfoWeb-CNAT/Restaurante](https://github.com/PI-InfoWeb-CNAT/Restaurante) |
 | Offclub (E-comerce)        | Prof. Fellipe Aleixo | -    | https://github.com/PI-InfoWeb-CNAT/2025-OffClub |
