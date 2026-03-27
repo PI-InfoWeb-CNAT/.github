@@ -10,6 +10,8 @@
 | *** | *** | *** | *** |
 | STEP - Sistema de Transporte escolar Público | Fellipe Aleixo | - | https://github.com/PI-InfoWeb-CNAT/2026-STEP |
 | TIatende | Alexandre Gomes | - | https://github.com/PI-InfoWeb-CNAT/2026-TIatende |
+| AFF - Abertura Força Federal | - | https://github.com/PI-InfoWeb-CNAT/2026-AFF |
+
 
 ## 2025 - PI InfoWeb
 | Projeto                    | Gerente              | Site | Repositório                                                                                       |
