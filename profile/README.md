@@ -1,5 +1,12 @@
 # Projetos Integradores do 3o ano de Infoweb
 
+## 2026 - PI InfoWeb
+| Projeto | Gerente | Site | Repositório |
+| :---: | :---: | :---: | :---: |
+| MapaCNAT | Leonardo Minora | - | https://github.com/PI-InfoWeb-CNAT/2026-MapaCNAT |
+| GAP - Gestor Acadêmico de Prazos | Alexandre Gomes | - | https://github.com/PI-InfoWeb-CNAT/2026-GAP |
+| DraftIF | Fellipe Aleixo | - | https://github.com/PI-InfoWeb-CNAT/2026-DraftIF |
+
 ## 2025 - PI InfoWeb
 | Projeto                    | Gerente              | Site | Repositório                                                                                       |
 | -------------------------- | -------------------- | ---- | ------------------------------------------------------------------------------------------------  |
