@@ -7,6 +7,9 @@
 | GAP - Gestor Acadêmico de Prazos | Alexandre Gomes | - | https://github.com/PI-InfoWeb-CNAT/2026-GAP |
 | DraftIF | Fellipe Aleixo | - | https://github.com/PI-InfoWeb-CNAT/2026-DraftIF |
 | ScriptA | Danielle Freitas | - | https://github.com/PI-InfoWeb-CNAT/2026-ScriptA |
+| *** | *** | *** | *** |
+| STEP - Sistema de Transporte escolar Público | Fellipe Aleixo | - | https://github.com/PI-InfoWeb-CNAT/2026-STEP |
+| TIatende | Alexandre Gomes | - | https://github.com/PI-InfoWeb-CNAT/2026-TIatende |
 
 ## 2025 - PI InfoWeb
 | Projeto                    | Gerente              | Site | Repositório                                                                                       |
