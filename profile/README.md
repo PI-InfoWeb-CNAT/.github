@@ -4,13 +4,13 @@
 | Projeto | Gerente | Site | Repositório |
 | :---: | :---: | :---: | :---: |
 | MapaCNAT | Leonardo Minora | - | https://github.com/PI-InfoWeb-CNAT/2026-MapaCNAT |
-| GAP - Gestor Acadêmico de Prazos | Alexandre Gomes | - | https://github.com/PI-InfoWeb-CNAT/2026-GAP |
+| GAP | Alexandre Gomes | - | https://github.com/PI-InfoWeb-CNAT/2026-GAP |
 | DraftIF | Fellipe Aleixo | - | https://github.com/PI-InfoWeb-CNAT/2026-DraftIF |
 | ScriptA | Danielle Freitas | - | https://github.com/PI-InfoWeb-CNAT/2026-ScriptA |
 | *** | *** | *** | *** |
-| STEP - Sistema de Transporte escolar Público | Fellipe Aleixo | - | https://github.com/PI-InfoWeb-CNAT/2026-STEP |
+| STEP | Fellipe Aleixo | - | https://github.com/PI-InfoWeb-CNAT/2026-STEP |
 | TIatende | Alexandre Gomes | - | https://github.com/PI-InfoWeb-CNAT/2026-TIatende |
-| AFF - Abertura Força Federal  | Gilbert Azevedo | - | https://github.com/PI-InfoWeb-CNAT/2026-AFF |
+| AFF | Gilbert Azevedo | - | https://github.com/PI-InfoWeb-CNAT/2026-AFF |
 | ZXis | Danielle Freitas | - | https://github.com/PI-InfoWeb-CNAT/2026-ZXis |
 
 
