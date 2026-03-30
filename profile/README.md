@@ -7,7 +7,7 @@
 | GAP | Alexandre Gomes | - | https://github.com/PI-InfoWeb-CNAT/2026-GAP |
 | DraftIF | Fellipe Aleixo | - | https://github.com/PI-InfoWeb-CNAT/2026-DraftIF |
 | ScriptA | Danielle Freitas | - | https://github.com/PI-InfoWeb-CNAT/2026-ScriptA |
-| --*-- | --*-- | --*-- | --*-- |
+| ---- | ---- | ---- | ---- |
 | STEP | Fellipe Aleixo | - | https://github.com/PI-InfoWeb-CNAT/2026-STEP |
 | TIatende | Alexandre Gomes | - | https://github.com/PI-InfoWeb-CNAT/2026-TIatende |
 | AFF | Gilbert Azevedo | - | https://github.com/PI-InfoWeb-CNAT/2026-AFF |
