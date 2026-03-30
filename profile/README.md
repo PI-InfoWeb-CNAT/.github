@@ -1,6 +1,6 @@
 # Projetos Integradores do 3o ano de Infoweb
 
-## 2026 - PI InfoWeb
+  ## 2026 - Projeto Integrador (3º) InfoWeb
 | Projeto | Gerente | Site | Repositório |
 | :---: | :---: | :---: | :---: |
 | MapaCNAT | prof. Leonardo Minora | - | https://github.com/PI-InfoWeb-CNAT/2026-MapaCNAT |
