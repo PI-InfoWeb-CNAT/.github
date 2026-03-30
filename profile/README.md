@@ -3,15 +3,15 @@
 ## 2026 - PI InfoWeb
 | Projeto | Gerente | Site | Repositório |
 | :---: | :---: | :---: | :---: |
-| MapaCNAT | Leonardo Minora | - | https://github.com/PI-InfoWeb-CNAT/2026-MapaCNAT |
-| GAP | Alexandre Gomes | - | https://github.com/PI-InfoWeb-CNAT/2026-GAP |
-| DraftIF | Fellipe Aleixo | - | https://github.com/PI-InfoWeb-CNAT/2026-DraftIF |
-| ScriptA | Danielle Freitas | - | https://github.com/PI-InfoWeb-CNAT/2026-ScriptA |
+| MapaCNAT | prof. Leonardo Minora | - | https://github.com/PI-InfoWeb-CNAT/2026-MapaCNAT |
+| GAP | prof. Alexandre Gomes | - | https://github.com/PI-InfoWeb-CNAT/2026-GAP |
+| DraftIF | prof. Fellipe Aleixo | - | https://github.com/PI-InfoWeb-CNAT/2026-DraftIF |
+| ScriptA | profa. Danielle Freitas | - | https://github.com/PI-InfoWeb-CNAT/2026-ScriptA |
 | ------ | ------ | --- | ------ |
-| STEP | Fellipe Aleixo | - | https://github.com/PI-InfoWeb-CNAT/2026-STEP |
-| TIatende | Alexandre Gomes | - | https://github.com/PI-InfoWeb-CNAT/2026-TIatende |
-| AFF | Gilbert Azevedo | - | https://github.com/PI-InfoWeb-CNAT/2026-AFF |
-| ZXis | Danielle Freitas | - | https://github.com/PI-InfoWeb-CNAT/2026-ZXis |
+| STEP | prof. Fellipe Aleixo | - | https://github.com/PI-InfoWeb-CNAT/2026-STEP |
+| TIatende | prof. Alexandre Gomes | - | https://github.com/PI-InfoWeb-CNAT/2026-TIatende |
+| AFF | prof. Gilbert Azevedo | - | https://github.com/PI-InfoWeb-CNAT/2026-AFF |
+| ZXis | profa. Danielle Freitas | - | https://github.com/PI-InfoWeb-CNAT/2026-ZXis |
 
 
 ## 2025 - PI InfoWeb
