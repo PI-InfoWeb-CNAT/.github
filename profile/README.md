@@ -4,7 +4,7 @@
 | Projeto | Gerente | Site | Repositório |
 | :---: | :---: | :---: | :---: |
 | MapaCNAT | prof. Leonardo Minora | - | https://github.com/PI-InfoWeb-CNAT/2026-MapaCNAT |
-| GAP | prof. Alexandre Gomes | - | https://github.com/PI-InfoWeb-CNAT/2026-GAP |
+| CAP | prof. Alexandre Gomes | - | https://github.com/PI-InfoWeb-CNAT/2026-GAP |
 | DraftIF | prof. Fellipe Aleixo | - | https://github.com/PI-InfoWeb-CNAT/2026-DraftIF |
 | ScriptA | profa. Danielle Freitas | - | https://github.com/PI-InfoWeb-CNAT/2026-ScriptA |
 | ------ | ------ | --- | ------ |
