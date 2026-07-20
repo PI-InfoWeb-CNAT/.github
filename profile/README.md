@@ -2,7 +2,7 @@
 
 ## 2026 - Projeto Integrador (4º) InfoWeb
 | Projeto | Site  | Repositório |
-| :---:   | :---: | :---:       |
+| ------- | ----- | ----------- |
 | Corisco          | - | https://github.com/PI-InfoWeb-CNAT/portal_corisco |
 | CODESP           | - | https://github.com/PI-InfoWeb-CNAT/codesp |
 | Rextech          | - | https://github.com/PI-InfoWeb-CNAT/rextech |
