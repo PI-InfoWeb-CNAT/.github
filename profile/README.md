@@ -1,6 +1,15 @@
 # Projetos Integradores do 3o ano de Infoweb
 
-  ## 2026 - Projeto Integrador (3º) InfoWeb
+## 2026 - Projeto Integrador (4º) InfoWeb
+| Projeto | Site  | Repositório |
+| :---:   | :---: | :---:       |
+| Corisco          | - | https://github.com/PI-InfoWeb-CNAT/portal_corisco |
+| CODESP           | - | https://github.com/PI-InfoWeb-CNAT/codesp |
+| Rextech          | - | https://github.com/PI-InfoWeb-CNAT/rextech |
+| todo evento cnat | - | https://github.com/PI-InfoWeb-CNAT/todoeventocnat |
+| migrar           | - | https://github.com/PI-InfoWeb-CNAT/nutrichat |
+
+## 2026 - Projeto Integrador (3º) InfoWeb
 | Projeto | Gerente | Site | Repositório |
 | :---: | :---: | :---: | :---: |
 | MapaCNAT | prof. Leonardo Minora | - | https://github.com/PI-InfoWeb-CNAT/2026-MapaCNAT |
