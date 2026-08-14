@@ -12,7 +12,7 @@
 ## 2026 - Projeto Integrador (3º) InfoWeb
 | Projeto | Gerente | Site | Repositório |
 | :---: | :---: | :---: | :---: |
-| MapaCNAT | prof. Leonardo Minora | - | https://github.com/PI-InfoWeb-CNAT/2026-MapaCNAT |
+| MapaCNAT | prof. Fellipe Aleixo (2º semestre)<br>prof. Leonardo Minora (1º semestre) | - | https://github.com/PI-InfoWeb-CNAT/2026-MapaCNAT |
 | CAP | prof. Alexandre Gomes | - | https://github.com/PI-InfoWeb-CNAT/2026-CAP |
 | DraftIF | prof. Fellipe Aleixo | - | https://github.com/PI-InfoWeb-CNAT/2026-DraftIF |
 | ScriptA | profa. Danielle Freitas | - | https://github.com/PI-InfoWeb-CNAT/2026-ScriptA |
